@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Пригородный транспорт</string>
+    <string name="bus">Автобусы</string>
+    <string name="marsh">Маршрутки</string>
+</resources>
